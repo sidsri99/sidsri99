@@ -17,9 +17,12 @@ Here are some ideas to get you started:
 
 <table>
   <tr>
-    <th>Skills</th><th>Technologies</th><th>Projects</th>
+    <th colspan=2>Web Development</th>
   </tr>
   <tr>
-    <td>Web development</td><td><ul><li>HTML</li><li>CSS (SASS, Bootstrap)</li><li>JavaScript (JQuery, ReactJs)</li><li>MySql</li><li>Php</li><li>ASP.NET</li></ul></td><td><ul><li>Online Ecommerce website using Php and Mysql </li><li>Online Bookstore using ASP.NET </li><li>Quiz App using JavaScript</li><li>Covid19 tracker using APIs</li></ul></td>
+    <th>Technologies</th><th>Projects</th>
+  </tr>
+  <tr>
+    <td><ul><li>HTML</li><li>CSS (SASS, Bootstrap)</li><li>JavaScript (JQuery, ReactJs)</li><li>MySql</li><li>Php</li><li>ASP.NET</li></ul></td><td><ul><li>Online Ecommerce website using Php and Mysql </li><li>Online Bookstore using ASP.NET </li><li>Quiz App using JavaScript</li><li>Covid19 tracker using APIs</li></ul></td>
   </tr>
 </table>
