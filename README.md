@@ -26,3 +26,5 @@ Here are some ideas to get you started:
     <td><ul><li>HTML</li><li>CSS (SASS, Bootstrap)</li><li>JavaScript (JQuery, ReactJs)</li><li>MySql</li><li>Php</li><li>ASP.NET</li></ul></td><td><ul><li>Online Ecommerce website using Php and Mysql </li><li>Online Bookstore using ASP.NET </li><li>Quiz App using JavaScript</li><li>Covid19 tracker using APIs</li></ul></td>
   </tr>
 </table>
+
+### Programming Languages : <table><tr><th><ul><li>Java</li><li>C / C++</li><li>C#</li><li>Python</li></ul></th></tr></table>
