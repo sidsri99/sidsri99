@@ -1,4 +1,4 @@
-## Hi I am Siddharth Srivastava 👋
+## Hi, I am Siddharth Srivastava 👋
 
 <!--
 **sidsri99/sidsri99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
